@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SignUp</string>
+    <string name="sendToServer">sendToServer</string>
+    <string name="skills">Skills</string>
+    <string name="country">Country</string>
+    <string name="familyName">FamilyName</string>
+    <string name="name">Name</string>
+</resources>
